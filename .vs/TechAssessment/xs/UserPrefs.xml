@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C35220E2-D9AB-4B55-B892-104E0742A24B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechAssessment/SharedFunctions.cs">
+    <Files>
+      <File FileName="TestProject/MockConsole.cs" Line="1" Column="1" />
+      <File FileName="TestProject/SharedFunctionTests.cs" Line="1" Column="1" />
+      <File FileName="TechAssessment/App.config" Line="1" Column="1" />
+      <File FileName="TechAssessment/IConsole.cs" Line="1" Column="1" />
+      <File FileName="TechAssessment/IInputFile.cs" Line="1" Column="1" />
+      <File FileName="TechAssessment/InputFile.cs" Line="1" Column="1" />
+      <File FileName="TechAssessment/Program.cs" Line="1" Column="1" />
+      <File FileName="TechAssessment/SharedFunctions.cs" Line="9" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TechAssessment">
+            <Node name="TechAssessment" expanded="True" />
+            <Node name="TestProject" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TechAssessment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

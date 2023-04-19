@@ -1,0 +1,8 @@
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TechAssessment\bin\Debug\TechAssessment.exe.config
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TechAssessment\bin\Debug\TechAssessment.exe
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TechAssessment\bin\Debug\TechAssessment.pdb
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TechAssessment\obj\Debug\TechAssessment.csproj.AssemblyReference.cache
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TechAssessment\obj\Debug\TechAssessment.csproj.SuggestedBindingRedirects.cache
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TechAssessment\obj\Debug\TechAssessment.csproj.CoreCompileInputs.cache
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TechAssessment\obj\Debug\TechAssessment.exe
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TechAssessment\obj\Debug\TechAssessment.pdb

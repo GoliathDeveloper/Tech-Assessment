@@ -1,0 +1,17 @@
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\TestProject.dll
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\TestProject.pdb
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\TechAssessment.exe
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\TechAssessment.pdb
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\TechAssessment.exe.config
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\obj\Debug\TestProject.dll
+C:\Users\PhilipG\OneDrive - The BESA Group\Desktop\Tech\Tech\TestProject\obj\Debug\TestProject.pdb
